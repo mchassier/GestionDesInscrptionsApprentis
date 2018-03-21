@@ -1,0 +1,1 @@
+insert into ville (vil_cp, vil_libelle) values ('86200','Loudun'),('37000','Tours');
